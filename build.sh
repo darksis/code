@@ -13,7 +13,7 @@ fi
 PREFIX=${CURDIR}/inspircd
 BINARY_DIR=${PREFIX}/bin
 MODULE_DIR=${PREFIX}/modules
-CONFIG_DIR=${PREFIX}/config
+CONFIG_DIR=${PREFIX}/conf
 DATA_DIR=${PREFIX}/data
 LOG_DIR=${PREFIX}/log
 
